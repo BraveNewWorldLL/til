@@ -3,6 +3,6 @@ layout: post
 title: Three things I learned from The Ruby Koans
 ---
 
-Here are (at least) three things I learned from [The Ruby Koans](http://rubykoans.com/):
+Here are (at least) three things I learned from [The Ruby Koans](http://rubykoans.com/): 1 & 2 & 3. Glad it works!
 
 
